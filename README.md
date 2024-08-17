@@ -32,4 +32,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [repo-url](https://github.com/Kannan-Selvaraj-45/weather-app-react.git)
+   git clone https://github.com/Kannan-Selvaraj-45/weather-app-react.git
